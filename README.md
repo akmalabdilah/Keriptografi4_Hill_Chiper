@@ -11,14 +11,8 @@
 
 ## Note Sebelum Membaca Tonton Video Singkat Ini  Dulu
 
-## Encryption Hill Cipher Video Simulasi Singgat
+Lihat video [di sini](https://github.com/akmalabdilah/Keriptografi4_Hill_Chiper/issues/1#issue-1970776354).
 
-
-
-Lihat video YouTube [di sini](https://github.com/akmalabdilah/Keriptografi4_Hill_Chiper/issues/1#issue-1970776354).
-<p align="center">
- <img src="https://github.com/akmalabdilah/Keriptografi4_Hill_Chiper/issues/1#issue-1970776354"/>
-</p>
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/91085882/137566814-9c8c078c-1c3e-475c-b23d-7f4922f74beb.gif"/>
