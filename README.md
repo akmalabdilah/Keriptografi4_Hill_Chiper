@@ -13,6 +13,10 @@
 
 Lihat video [di sini](https://github.com/akmalabdilah/Keriptografi4_Hill_Chiper/issues/1#issue-1970776354).
 
+![Gambar 1](screenshoot/1.png)
+![Gambar 2](screenshoot/2.png)
+![Gambar 3](screenshoot/3.png)
+
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/91085882/137566814-9c8c078c-1c3e-475c-b23d-7f4922f74beb.gif"/>
