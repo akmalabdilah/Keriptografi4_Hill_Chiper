@@ -15,7 +15,7 @@
 
 
 
-Lihat video YouTube [di sini](video.html).
+Lihat video YouTube [di sini](https://github.com/akmalabdilah/Keriptografi4_Hill_Chiper/issues/1#issue-1970776354).
 <p align="center">
  <img src="https://github.com/akmalabdilah/Keriptografi4_Hill_Chiper/issues/1#issue-1970776354"/>
 </p>
