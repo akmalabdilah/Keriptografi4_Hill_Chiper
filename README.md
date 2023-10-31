@@ -17,7 +17,7 @@
 
 Lihat video YouTube [di sini](video.html).
 <p align="center">
- <img src="[screen-capture.webm](https://github.com/akmalabdilah/Keriptografi4_Hill_Chiper/assets/92352562/5cb957d2-eb57-455c-9ac5-7dea35019678)"/>
+ <img src="https://github.com/akmalabdilah/Keriptografi4_Hill_Chiper/issues/1#issue-1970776354"/>
 </p>
 
 <p align="center">
