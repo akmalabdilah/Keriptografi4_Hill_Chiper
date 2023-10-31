@@ -13,8 +13,12 @@
 
 ## Encryption Hill Cipher Video Simulasi Singgat
 
-Lihat video YouTube [di sini](video.html).
 
+
+Lihat video YouTube [di sini](video.html).
+<p align="center">
+ <img src="[screen-capture.webm](https://github.com/akmalabdilah/Keriptografi4_Hill_Chiper/assets/92352562/5cb957d2-eb57-455c-9ac5-7dea35019678)"/>
+</p>
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/91085882/137566814-9c8c078c-1c3e-475c-b23d-7f4922f74beb.gif"/>
