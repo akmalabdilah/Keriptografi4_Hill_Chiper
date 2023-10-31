@@ -9,22 +9,11 @@
 | **Kelas**       | TI.21.A.1                    |
 | **Mata Kuliah** | Kriptografi                  |
 
-## Note Sebelum Membaca Setel Lagu Numb Dulu
+## Note Sebelum Membaca Tonton Video Singkat Ini  Dulu
 
+## Encryption Hill Cipher Video Simulasi Singgat
 
-<html>
-
-	
-
-
-<audio controls align="center">
-	<source src="6.ogg" type="audio/ogg">
-	<source src="6.mp3" type="audio/mpeg">
-</audio>
-
-
-
-</html>
+Lihat video YouTube [di sini](video.html).
 
 
 <p align="center">
@@ -42,17 +31,7 @@
 
 <hr>
 
-## Encryption Hill Cipher Video Simulasi Singgat
 
-<html>
-<fieldset>
-<center>
-	
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ch6ZBKmHuU8" frameborder="0" allowfullscreen></iframe>
-
-</center>
-</fieldset>
-</html>
 
 ## Encryption Hill Cipher
 <p>Hill Cipher adalah sebuah algoritma enkripsi dalam kriptografi yang menggunakan matriks sebagai kunci enkripsi. Algoritma ini dikembangkan oleh Lester S. Hill pada tahun 1929. Hill Cipher digunakan untuk mengenkripsi dan mendekripsi teks dengan menggunakan kunci matriks. Enkripsi Hill Cipher adalah proses mengubah teks plainteks menjadi teks terenkripsi, sedangkan dekripsi adalah proses mengubah teks terenkripsi kembali menjadi teks asli (plainteks).</p>
