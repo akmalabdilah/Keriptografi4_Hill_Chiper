@@ -10,11 +10,21 @@
 | **Mata Kuliah** | Kriptografi                  |
 
 ## Note Sebelum Membaca Setel Lagu Numb Dulu
-
+<!DOCTYPE html>
+<html>
+<head>
+	
+</head>
+<body bgcolor="#BDE86E">
 <audio controls align="center">
 	<source src="6.ogg" type="audio/ogg">
 	<source src="6.mp3" type="audio/mpeg">
 </audio>
+
+
+</body>
+</html>
+
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/91085882/137566814-9c8c078c-1c3e-475c-b23d-7f4922f74beb.gif"/>
@@ -22,6 +32,8 @@
 <p align="center">
 <a href="https://github.com/akmalabdilah"><img title="Author" src="https://img.shields.io/discord/102860784329052160?color=BLUE&label=M.%20AKMAL%20AL%20ABDILAH1&logo=GITHUB&logoColor=BLACK&style=plastic"></a>
 <p align="center">
+
+
 
 <hr>
 
